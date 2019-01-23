@@ -83,4 +83,10 @@ deploy:
   name: inoyasha
   email: 842553705@qq.com
   branch: master
+# search
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
 
