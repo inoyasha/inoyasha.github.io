@@ -2,7 +2,7 @@
 title: 集成阿里巴巴durid
 date: 2019-01-24 16:35:15
 tags: durid
-categories: javaweb
+categories: java web
 ---
 
 #### 引言
