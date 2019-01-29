@@ -1,8 +1,11 @@
 title: github 简单命令
 author: ginuyasha
-date: 2019-01-29 14:20:57
 tags:
+  - git 命令
+  - ''
 categories:
+  - git
+date: 2019-01-29 14:20:00
 ---
 #### 引言
 
