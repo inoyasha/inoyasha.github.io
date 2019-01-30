@@ -2,7 +2,8 @@ title: java环境变量的配置(windows环境)
 author: ginuyasha
 tags:
   - 配置
-categories: []
+categories:
+  - java
 date: 2019-01-25 12:56:00
 ---
 ![](/images/common/program.jpg)

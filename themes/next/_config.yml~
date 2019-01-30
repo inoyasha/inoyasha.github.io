@@ -26,28 +26,28 @@ override: false
 
 # For example, you put your favicons into `hexo-site/source/images` directory.
 # Then need to rename & redefine they on any other names, otherwise icons from Next will rewrite your custom icons in Hexo.
-favicon:
-  small: /images/favicon-16x16-next.png
-  medium: /images/favicon-32x32-next.png
+favicon: 
+  small: /images/InuYasha-16px-next.png #/images/favicon-16x16-next.png
+  medium: /images/InuYasha-32px-next.png #/images/favicon-32x32-next.png
   apple_touch_icon: /images/apple-touch-icon-next.png
   safari_pinned_tab: /images/logo.svg
   #android_manifest: /images/manifest.json
   #ms_browserconfig: /images/browserconfig.xml
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT"
+keywords: "晨宇飞扬"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss:  /atom.xml
 
 footer:
   # couter pv 
   counter: true
   # Specify the date when the site was setup.
   # If not defined, current year will be used.
-  #since: 2015
+  since: 2019
 
   # Icon between year and copyright info.
   icon: user
@@ -95,10 +95,10 @@ index_with_subtitle: false
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
   home: / || home
-  #about: /about/ || user
-  tags: /tags/ || tags
-  categories: /categories/ || th
   archives: /archives/ || archive
+  categories: /categories/ || th
+  tags: /tags/ || tags
+  about: /about/ || user
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
@@ -129,7 +129,7 @@ scheme: Gemini
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 #social:
-  #GitHub: https://github.com/yourname || github
+  #GitHub: https://github.com/inoyasha
   #E-Mail: mailto:yourname@gmail.com || envelope
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
@@ -147,11 +147,19 @@ social_icons:
 
 # Blog rolls
 links_icon: link
-links_title: Links
+links_title: 推荐阅读
 links_layout: block
-#links_layout: inline
-#links:
+
+# links_layout: inline
+links:
   #Title: http://example.com/
+  阿里中间件博客: http://jm.taobao.org/
+  纯洁的微笑: http://www.ityouknow.com/page17/
+  CoolShell: https://coolshell.cn/articles/5426.html
+  题库-力扣: https://leetcode-cn.com/problemset/all/
+  大前端: http://www.daqianduan.com/front
+  摆渡-韩洪文: https://hhongwen.cn/
+
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
@@ -429,12 +437,12 @@ gitment:
 # This plugin is more useful in China, make sure you known how to use it.
 # And you can find the use guide at official webiste: http://www.jiathis.com/.
 # Warning: JiaThis does not support https.
-#jiathis:
+jiathis: false
   ##uid: Get this uid from http://www.jiathis.com/
 #add_this_id:
 
 # Share
-#duoshuo_share: true
+duoshuo_share: true
 
 # NeedMoreShare2
 # This plugin is a pure javascript sharing lib which is useful in China.
@@ -448,7 +456,7 @@ gitment:
 #           Technorati,Posterous,Tumblr,GoogleBookmarks,Newsvine,
 #           Evernote,Friendfeed,Vkontakte,Odnoklassniki,Mailru
 needmoreshare2:
-  enable: false
+  enable: true
   postbottom:
     enable: false
     options:
@@ -457,7 +465,7 @@ needmoreshare2:
       position: bottomCenter
       networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
   float:
-    enable: false
+    enable: true
     options:
       iconStyle: box
       boxForm: horizontal
