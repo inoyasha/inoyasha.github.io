@@ -35,7 +35,7 @@ favicon:
   #ms_browserconfig: /images/browserconfig.xml
 
 # Set default keywords (Use a comma to separate)
-keywords: "晨宇飞扬"
+keywords: "java,后端"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -56,11 +56,11 @@ footer:
   copyright: 晨宇飞扬
   # -------------------------------------------------------------
   # Hexo link (Powered by Hexo).
-  powered: false
+  powered: true
 
   theme:
     # Theme & scheme info link (Theme - NexT.scheme).
-    enable: false
+    enable: true
     # Version info of NexT after scheme info (vX.X.X).
     version: false
   # -------------------------------------------------------------
@@ -113,10 +113,10 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-#scheme: Muse
+scheme: Muse
 #scheme: Mist
 #scheme: Pisces
-scheme: Gemini
+#scheme: Gemini
 
 
 # ---------------------------------------------------------------
@@ -150,15 +150,15 @@ links_icon: link
 links_title: 推荐阅读
 links_layout: block
 
-# links_layout: inline
+#links_layout: inline
 links:
   #Title: http://example.com/
-  阿里中间件博客: http://jm.taobao.org/
-  纯洁的微笑: http://www.ityouknow.com/page17/
+  大前端: http://www.daqianduan.com/front
   CoolShell: https://coolshell.cn/articles/5426.html
   题库-力扣: https://leetcode-cn.com/problemset/all/
-  大前端: http://www.daqianduan.com/front
-
+  纯洁的微笑: http://www.ityouknow.com/page17/
+  摆渡-韩洪文: https://hhongwen.cn/
+  阿里中间件博客: http://jm.taobao.org/
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
@@ -288,7 +288,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: normal
+highlight_theme: night
 
 
 # ---------------------------------------------------------------
@@ -441,7 +441,7 @@ jiathis: false
 #add_this_id:
 
 # Share
-duoshuo_share: true
+duoshuo_share: false
 
 # NeedMoreShare2
 # This plugin is a pure javascript sharing lib which is useful in China.
@@ -455,7 +455,7 @@ duoshuo_share: true
 #           Technorati,Posterous,Tumblr,GoogleBookmarks,Newsvine,
 #           Evernote,Friendfeed,Vkontakte,Odnoklassniki,Mailru
 needmoreshare2:
-  enable: true
+  enable: false
   postbottom:
     enable: false
     options:
@@ -706,7 +706,7 @@ pace: true
 pace_theme: pace-theme-minimal
 
 # Canvas-nest
-canvas_nest: true
+canvas_nest: false
 
 # three_waves
 three_waves: false
