@@ -101,10 +101,12 @@ live2d:
   enable: true
   scriptFrom: local
   model:
-    use: ./live2d_models/live2d-widget-model-haru/02
+    #use: ./live2d_models/live2d-widget-model-haruto
+    #use: ./live2d_models/live2d-widget-model-chitose
+     use: ./live2d_models/live2d-widget-model-hijiki
   display:
     position: left
     width: 150
-    height: 150
+    height: 300
   mobile:
-    show: true
+    show: false
