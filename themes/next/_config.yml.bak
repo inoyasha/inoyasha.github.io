@@ -53,7 +53,7 @@ footer:
   icon: user
 
   # If not defined, will be used `author` from Hexo main config.
-  copyright: 我叫郭小黑~嘿
+  copyright: 嘿~我叫郭小黑
   # -------------------------------------------------------------
   # Hexo link (Powered by Hexo).
   powered: true
@@ -155,6 +155,7 @@ links_title: 推荐阅读
 links_layout: inline
 links:
   #Title: http://example.com/
+  下位子: http://xiaweizi.cn/
   大前端: http://www.daqianduan.com/front
   CoolShell: https://coolshell.cn/articles/5426.html
   题库-力扣: https://leetcode-cn.com/problemset/all/
@@ -827,4 +828,16 @@ version: 5.1.4
 # 文章末尾添加“本文结束”标记
 passage_end_tag:
   enabled: true
-
+# Live2D
+## https://github.com/EYHN/hexo-helper-live2d
+live2d:
+  enable: true
+  scriptFrom: local
+  model:
+    use: ./live2d_models/mymiku/live2d-widget-model-miku
+  display:
+    position: left
+    width: 150
+    height: 150
+  mobile:
+    show: true

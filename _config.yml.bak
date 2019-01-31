@@ -7,7 +7,7 @@ title: 嘿~我叫郭小黑
 subtitle: 书山有路勤为径，学海无涯苦作舟
 description:
 keywords: java,后端
-author: guoxiaohei
+author: 郭小黑
 language: zh-Hans
 timezone:
 
@@ -95,3 +95,16 @@ plugins: hexo-generate-feed
 admin:
   deployCommand: 'hexo-deploy.bat'
 
+# Live2D
+## https://github.com/EYHN/hexo-helper-live2d
+live2d:
+  enable: true
+  scriptFrom: local
+  model:
+    use: ./live2d_models/mymiku/live2d-widget-model-miku
+  display:
+    position: left
+    width: 150
+    height: 150
+  mobile:
+    show: true

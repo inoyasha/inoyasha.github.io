@@ -95,3 +95,16 @@ plugins: hexo-generate-feed
 admin:
   deployCommand: 'hexo-deploy.bat'
 
+# Live2D
+## https://github.com/EYHN/hexo-helper-live2d
+live2d:
+  enable: true
+  scriptFrom: local
+  model:
+    use: ./live2d_models/live2d-widget-model-haru/02
+  display:
+    position: left
+    width: 150
+    height: 150
+  mobile:
+    show: true
