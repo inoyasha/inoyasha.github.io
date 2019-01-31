@@ -1,8 +1,10 @@
----
 title: mysql远程访问的ip进行限制，指定某个ip可以访问
-date: 2019-01-23 15:24:20
-tags: mysql
-categories: 数据库
+tags:
+  - mysql
+categories:
+  - 数据库
+author: 郭小黑
+date: 2019-01-23 15:24:00
 ---
 
 ###### 关闭root账号所有远程ip可以访问的权限。

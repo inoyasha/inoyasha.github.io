@@ -1,8 +1,10 @@
----
 title: 集成阿里巴巴durid
-date: 2019-01-24 16:35:15
-tags: durid
-categories: java web
+tags:
+  - durid
+categories:
+  - java web
+author: 郭小黑
+date: 2019-01-24 16:35:00
 ---
 
 #### 引言

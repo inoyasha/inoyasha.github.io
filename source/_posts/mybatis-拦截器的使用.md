@@ -1,8 +1,10 @@
----
 title: mybatis 拦截器的使用
-date: 2019-01-24 17:36:29
-tags: mybatis
-categories: java web
+tags:
+  - mybatis
+categories:
+  - java web
+author: 郭小黑
+date: 2019-01-24 17:36:00
 ---
 
 

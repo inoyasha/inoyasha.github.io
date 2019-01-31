@@ -128,8 +128,8 @@ scheme: Muse
 # Key is the link label showing to end users.
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
-#social:
-  #GitHub: https://github.com/inoyasha
+social:
+  GitHub:  https://github.com/inoyasha/ || github  
   #E-Mail: mailto:yourname@gmail.com || envelope
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
@@ -141,15 +141,18 @@ scheme: Muse
   #Skype: skype:yourname?call|chat || skype
 
 social_icons:
-  enable: true
+  enable: true  
+  GitHub: github
   icons_only: false
   transition: false
+
 
 # Blog rolls
 links_icon: link
 links_title: 推荐阅读
 #links_layout: block
- links_layout: inline
+
+links_layout: inline
 links:
   #Title: http://example.com/
   大前端: http://www.daqianduan.com/front
@@ -388,7 +391,7 @@ changyan:
 # You can get your appid and appkey from https://leancloud.cn
 # more info please open https://valine.js.org
 valine:
-  enable: false
+  enable: true
   appid:  # your leancloud application appid
   appkey:  # your leancloud application appkey
   notify: false # mail notifier , https://github.com/xCss/Valine/wiki

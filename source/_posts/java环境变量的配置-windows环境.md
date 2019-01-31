@@ -1,5 +1,5 @@
 title: java环境变量的配置(windows环境)
-author: ginuyasha
+author: 郭小黑
 tags:
   - 配置
 categories:

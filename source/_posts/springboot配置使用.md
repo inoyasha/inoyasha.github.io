@@ -1,8 +1,10 @@
----
 title: SpringBoot 配置详解
-date: 2019-01-23 15:19:46
-tags: springboot
-categories: java web
+tags:
+  - springboot
+categories:
+  - java web
+author: 郭小黑
+date: 2019-01-23 15:19:00
 ---
 
 - 自定义属性配置

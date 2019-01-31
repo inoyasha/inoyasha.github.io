@@ -1,8 +1,10 @@
----
 title: 使用maven生成可运行的jar包
-date: 2019-01-24 14:43:07
-tags: maven
-categories: 构建工具
+tags:
+  - maven
+categories:
+  - 构建工具
+author: 郭小黑
+date: 2019-01-24 14:43:00
 ---
 
 #### 引言

@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 晨宇飞扬
-subtitle:
+title: 嘿~我叫郭小黑
+subtitle: 书山有路勤为径，学海无涯苦作舟
 description:
-keywords:
-author: ginuyasha
+keywords: java,后端
+author: guoxiaohei
 language: zh-Hans
 timezone:
 
@@ -79,7 +79,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:inoyasha/inoyasha.github.io.git
+  repo: https://github.com/inoyasha/inoyasha.github.io.git
   name: inoyasha
   email: 842553705@qq.com
   branch: master

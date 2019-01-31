@@ -1,8 +1,10 @@
----
 title: 扩展jquery监控光标在input的位置
-date: 2019-01-23 19:44:02
-tags: jquery
-categories: 前端
+tags:
+  - jquery
+categories:
+  - 前端
+author: 郭小黑
+date: 2019-01-23 19:44:00
 ---
 
 #### 扩展jquery监控光标在input的位置

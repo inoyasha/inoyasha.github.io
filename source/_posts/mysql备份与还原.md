@@ -1,8 +1,10 @@
----
 title: mysql备份与还原
-date: 2019-01-23 15:28:25
-tags: mysql
-categories: 数据库
+tags:
+  - mysql
+categories:
+  - 数据库
+author: 郭小黑
+date: 2019-01-23 15:28:00
 ---
 
 ##### mysqldump命令导出数据

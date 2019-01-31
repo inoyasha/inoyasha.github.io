@@ -1,5 +1,5 @@
 title: Centos下jdk bin格式安装
-author: ginuyasha
+author: 郭小黑
 tags:
   - jdk
 categories: []

@@ -1,5 +1,5 @@
 title: Centos防火墙iptables的启动与关闭
-author: ginuyasha
+author: 郭小黑
 tags:
   - Centos
 categories:

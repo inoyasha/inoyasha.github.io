@@ -1,8 +1,10 @@
----
 title: MySQL审计工具Audit插件使用
-date: 2019-01-23 15:27:18
-tags: mysql
-categories: 数据库
+tags:
+  - mysql
+categories:
+  - 数据库
+author: 郭小黑
+date: 2019-01-23 15:27:00
 ---
 
 

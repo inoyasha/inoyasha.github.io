@@ -1,8 +1,10 @@
----
 title: 滚动条插件 mCustomScrollbar滚动加载数据
-date: 2019-01-23 18:26:10
-tags: mCustomScrollbar
-categories: 前端
+tags:
+  - mCustomScrollbar
+categories:
+  - 前端
+author: 郭小黑
+date: 2019-01-23 18:26:00
 ---
 
 

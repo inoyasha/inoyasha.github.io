@@ -1,8 +1,10 @@
----
 title: gradle的全局远程仓库配置与gradle的本地仓库
-date: 2019-01-24 15:44:38
-tags: gradle
-categories: 构建工具
+tags:
+  - gradle
+categories:
+  - 构建工具
+author: 郭小黑
+date: 2019-01-24 15:44:00
 ---
 
 

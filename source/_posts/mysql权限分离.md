@@ -1,8 +1,10 @@
----
 title: mysql权限分离
-date: 2019-01-23 15:26:26
-tags: mysql
-categories: 数据库
+tags:
+  - mysql
+categories:
+  - 数据库
+author: 郭小黑
+date: 2019-01-23 15:26:00
 ---
 
 ###### 使用root登录mysql数据库

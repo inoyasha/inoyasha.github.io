@@ -1,8 +1,10 @@
----
 title: 卸载ie9~ie11的命令
-date: 2019-01-24 16:45:19
-tags: windows
-categories: 操作系统
+tags:
+  - windows
+categories:
+  - 操作系统
+author: 郭小黑
+date: 2019-01-24 16:45:00
 ---
 
 

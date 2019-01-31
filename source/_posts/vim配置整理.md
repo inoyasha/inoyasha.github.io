@@ -1,8 +1,10 @@
----
 title: vim配置整理
-date: 2019-01-24 09:41:39
-tags: vim
-categories: 编辑器
+tags:
+  - vim
+categories:
+  - 编辑器
+author: 郭小黑
+date: 2019-01-24 09:41:00
 ---
 
 #### 比较完整的vim配置整理

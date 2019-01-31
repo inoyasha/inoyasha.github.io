@@ -1,8 +1,10 @@
----
 title: windows下 nodejs的安装与淘宝镜像的配置
-date: 2019-01-23 19:51:08
-tags: nodejs
-categories: 前端
+tags:
+  - nodejs
+categories:
+  - 前端
+author: 郭小黑
+date: 2019-01-23 19:51:00
 ---
 
 #### windows下 nodejs的安装与淘宝镜像的配置

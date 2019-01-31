@@ -1,5 +1,5 @@
 title: tomcat环境下服务器文件句柄耗尽（Too Many Open Files）的问题排查
-author: ginuyasha
+author: 郭小黑
 tags:
   - 问题排查
 categories:

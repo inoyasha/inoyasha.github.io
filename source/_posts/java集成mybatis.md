@@ -1,8 +1,10 @@
----
 title: java集成mybatis
-date: 2019-01-24 16:55:12
-tags: mybatis
-categories: java
+tags:
+  - mybatis
+categories:
+  - java
+author: 郭小黑
+date: 2019-01-24 16:55:00
 ---
 
 

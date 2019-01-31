@@ -1,8 +1,10 @@
----
 title: 兼容ie8-ie11的阻止表单提交的方法
-date: 2019-01-23 19:31:46
-tags: javascript
-categories: 前端
+tags:
+  - javascript
+categories:
+  - 前端
+author: 郭小黑
+date: 2019-01-23 19:31:00
 ---
 
 

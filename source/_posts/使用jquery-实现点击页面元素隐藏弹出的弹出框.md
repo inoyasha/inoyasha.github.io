@@ -1,8 +1,10 @@
----
 title: 使用jquery 实现点击页面元素隐藏弹出的弹出框
-date: 2019-01-23 17:41:20
-tags: jquery
-categories: 前端
+tags:
+  - jquery
+categories:
+  - 前端
+author: 郭小黑
+date: 2019-01-23 17:41:00
 ---
 
 #### 使用jquery 点击页面doucment元素，隐藏弹出框 

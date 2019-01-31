@@ -1,5 +1,5 @@
 title: tomcat6优化配置
-author: ginuyasha
+author: 郭小黑
 tags:
   - tomcat
 categories:

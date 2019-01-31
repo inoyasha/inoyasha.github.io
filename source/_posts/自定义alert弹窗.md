@@ -1,8 +1,10 @@
----
 title: 自定义alert弹窗
-date: 2019-01-23 19:23:02
-tags: javascript
-categories: 前端
+tags:
+  - javascript
+categories:
+  - 前端
+author: 郭小黑
+date: 2019-01-23 19:23:00
 ---
 
 #### 使用javascript自定义alert弹窗

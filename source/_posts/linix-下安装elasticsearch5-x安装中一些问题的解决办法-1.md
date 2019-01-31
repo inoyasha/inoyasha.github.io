@@ -1,5 +1,5 @@
 title: linix 下安装elasticsearch5.x安装中一些问题的解决办法
-author: ginuyasha
+author: 郭小黑
 tags:
   - elasticsearch
 categories:

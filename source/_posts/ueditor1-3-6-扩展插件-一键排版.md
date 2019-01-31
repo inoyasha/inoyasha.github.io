@@ -1,8 +1,10 @@
----
 title: ueditor1.3.6 扩展插件(一键排版)
-date: 2019-01-23 17:51:46
-tags: ueditor
-categories: 前端
+tags:
+  - ueditor
+categories:
+  - 前端
+author: 郭小黑
+date: 2019-01-23 17:51:00
 ---
 
 ### udeitor 百度编辑器

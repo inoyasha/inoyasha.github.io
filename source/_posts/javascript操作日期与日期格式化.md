@@ -1,8 +1,10 @@
----
 title: javascript操作日期与日期格式化
-date: 2019-01-23 20:07:06
-tags: javascript
-categories: 前端
+tags:
+  - javascript
+categories:
+  - 前端
+author: 郭小黑
+date: 2019-01-23 20:07:00
 ---
 
 #### javascript操作日期与日期格式化

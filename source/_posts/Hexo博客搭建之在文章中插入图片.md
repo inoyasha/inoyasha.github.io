@@ -1,5 +1,5 @@
 title: Hexo博客搭建之在文章中插入图片(转载)
-author: ginuyasha
+author: 郭小黑
 tags:
   - hexo
 categories:
