@@ -433,7 +433,10 @@ gitment:
 #    button | slide
 # Warning: Baidu Share does not support https.
 #baidushare:
-##  type: button
+##  type: button 
+baidushare:
+  type: slide
+  baidushare: true
 
 # Share
 # This plugin is more useful in China, make sure you known how to use it.
@@ -444,7 +447,7 @@ jiathis: false
 #add_this_id:
 
 # Share
-duoshuo_share: false
+duoshuo_share: true
 
 # NeedMoreShare2
 # This plugin is a pure javascript sharing lib which is useful in China.
@@ -828,16 +831,8 @@ version: 5.1.4
 # 文章末尾添加“本文结束”标记
 passage_end_tag:
   enabled: true
-# Live2D
-## https://github.com/EYHN/hexo-helper-live2d
-live2d:
-  enable: true
-  scriptFrom: local
-  model:
-    use: ./live2d_models/mymiku/live2d-widget-model-miku
-  display:
-    position: left
-    width: 150
-    height: 150
-  mobile:
-    show: true
+# 参考 http://www.cnblogs.com/ldnh/archive/2017/10/16/7675704.html
+# share sdk 官网:http://dashboard.mob.com/#!/setup/app
+#Share
+sharesdk: false
+shareSDKappkey: 1e312400bbec
