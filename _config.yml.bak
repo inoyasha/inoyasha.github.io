@@ -103,8 +103,7 @@ live2d:
   model:
     #use: ./live2d_models/live2d-widget-model-haruto
     #use: ./live2d_models/live2d-widget-model-chitose
-    #use: ./live2d_models/live2d-widget-model-hijiki cat
-     use: ./live2d_models/live2d-widget-model-nico
+     use: ./live2d_models/live2d-widget-model-hijiki
   display:
     position: left
     width: 150

@@ -35,7 +35,7 @@ favicon:
   #ms_browserconfig: /images/browserconfig.xml
 
 # Set default keywords (Use a comma to separate)
-keywords: "java,后端"
+keywords: java,后端,嘿~郭小黑,郭小黑
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -99,8 +99,9 @@ menu:
   categories: /categories/ || th
   tags: /tags/ || tags
   about: /about/ || user
+  book: /book || book
   #schedule: /schedule/ || calendar
-  #sitemap: /sitemap.xml || sitemap
+  sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
 
 # Enable/Disable menu icons.
@@ -589,7 +590,7 @@ busuanzi_count:
 
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: false
+baidu_push: true
 
 # Google Calendar
 # Share your recent schedule to others via calendar page
