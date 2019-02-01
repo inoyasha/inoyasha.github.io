@@ -837,3 +837,6 @@ passage_end_tag:
 #Share
 sharesdk: false
 shareSDKappkey: 1e312400bbec
+# 网易音乐开关
+wangyiyun:
+  music: true
