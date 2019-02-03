@@ -4,6 +4,7 @@ tags:
   - Centos
 categories:
   - Linux
+copyright: true
 date: 2019-01-29 17:29:00
 ---
 

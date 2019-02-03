@@ -4,6 +4,7 @@ tags:
 categories:
   - 操作系统
 author: 郭小黑
+copyright: true
 date: 2019-01-24 16:45:00
 ---
 

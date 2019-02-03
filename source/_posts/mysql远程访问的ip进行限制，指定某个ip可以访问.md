@@ -4,6 +4,7 @@ tags:
 categories:
   - 数据库
 author: 郭小黑
+copyright: true
 date: 2019-01-23 15:24:00
 ---
 

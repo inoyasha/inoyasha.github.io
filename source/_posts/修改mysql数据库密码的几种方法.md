@@ -1,9 +1,10 @@
-title: 修改数据库密码的几种方法
+title: 修改mysql数据库密码的几种方法
 tags:
   - mysql
 categories:
   - 数据库
 author: 郭小黑
+copyright: true
 date: 2019-01-23 15:19:00
 ---
 
