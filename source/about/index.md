@@ -38,6 +38,8 @@ date: 2019-01-25 09:26:54
 - [x]嵌入音乐播放器,并使用主题配置控制音乐播放器的现实隐藏。音乐为罗小黑战记的晚安. 
 - [x]自定义样式 
 - [x]文章版权声明,单个文章的博客版权通过修改post.swig文件控制，读取文章md中的copyright配置
+- [ ]leancloud评论提醒
+- [ ]DaoVince在线交流 http://blog.daovoice.io/
 - [ ]baidu搜索引擎优化
 - [ ]google搜索引擎优化
 
