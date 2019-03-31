@@ -1,8 +1,9 @@
 title: ARTS第一周
 copyright: true
-tags: ARTS第一周
-date: 2019-03-23 20:07:32
-categories:
+tags:
+categories: ARTS
+author: guoxiaohei
+date: 2019-03-23 20:07:00
 ---
 ### ARTS第一周
 
