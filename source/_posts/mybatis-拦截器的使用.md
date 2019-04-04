@@ -1,9 +1,11 @@
+---
 title: mybatis 拦截器的使用
 tags:
   - mybatis
 categories:
   - java web
 author: 郭小黑
+translate_title: use-of-mybatis-interceptor
 date: 2019-01-24 17:36:00
 ---
 

@@ -1,9 +1,11 @@
+---
 title: ueditor1.3.6 扩展插件(一键排版)
 tags:
   - ueditor
 categories:
   - 前端
 author: 郭小黑
+translate_title: ueditor-1.3.6-extension-(one-key-typesetting)
 date: 2019-01-23 17:51:00
 ---
 

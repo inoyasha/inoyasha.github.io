@@ -1,9 +1,11 @@
+---
 title: SpringBoot 配置详解
 tags:
   - springboot
 categories:
   - java web
 author: 郭小黑
+translate_title: springboot-configuration-details
 date: 2019-01-23 15:19:00
 ---
 

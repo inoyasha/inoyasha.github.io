@@ -1,9 +1,11 @@
+---
 title: linix 下安装elasticsearch5.x安装中一些问题的解决办法
 author: 郭小黑
 tags:
   - elasticsearch
 categories:
   - 数据库
+translate_title: solutions-to-some-problems-in-installing-elastic-search-5.x-under-linix
 date: 2019-01-29 17:11:00
 ---
 

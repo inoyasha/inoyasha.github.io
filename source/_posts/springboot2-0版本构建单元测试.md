@@ -1,9 +1,11 @@
+---
 title: springboot2.0版本构建单元测试
 author: 郭小黑
 tags:
   - springboot
   - 单元测试
 categories: []
+translate_title: springboot-version-2.0-builds-unit-tests
 date: 2019-02-02 17:48:00
 ---
 

@@ -1,9 +1,11 @@
+---
 title: tomcat6优化配置
 author: 郭小黑
 tags:
   - tomcat
 categories:
   - 中间件
+translate_title: tomcat-6-optimal-configuration
 date: 2019-01-30 08:32:00
 ---
 

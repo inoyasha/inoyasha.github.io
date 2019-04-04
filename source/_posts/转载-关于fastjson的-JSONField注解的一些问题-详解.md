@@ -1,9 +1,11 @@
+---
 title: '转载:关于fastjson的@JSONField注解的一些问题(详解)'
 author: 郭小黑
 tags: []
 categories:
   - java web
 copyright: false
+translate_title: 'reprint:-some-questions-about-the-@jsonfield-annotation-of-fastjson-(detailed)'
 date: 2019-02-02 19:32:00
 ---
 #### 引言

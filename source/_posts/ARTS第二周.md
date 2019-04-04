@@ -1,7 +1,9 @@
+---
 title: ARTS第二周
 copyright: true
 categories: ARTS
 author: guoxiaohei
+translate_title: arts-second-week
 date: 2019-03-31 19:00:48
 tags:
 ---

@@ -1,3 +1,4 @@
+---
 title: mysql远程访问的ip进行限制，指定某个ip可以访问
 tags:
   - mysql
@@ -5,6 +6,7 @@ categories:
   - 数据库
 author: 郭小黑
 copyright: true
+translate_title: 'mysql-remote-access-is-restricted-by-ip,-specifying-that-an-ip-can-be-accessed'
 date: 2019-01-23 15:24:00
 ---
 

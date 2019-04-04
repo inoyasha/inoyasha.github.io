@@ -1,9 +1,12 @@
+---
 title: java读取jar包的资源文件的方法(使用maven生成可执行jar包)
 tags:
   - maven打包问题
 categories:
   - java web
 author: 郭小黑
+translate_title: >-
+  method-of-java-reading-resource-files-of-jar-packages-(using-maven-to-generate-executable-jar-packages)
 date: 2019-01-24 15:14:00
 ---
 

@@ -1,9 +1,11 @@
+---
 title: windows下 nodejs的安装与淘宝镜像的配置
 tags:
   - nodejs
 categories:
   - 前端
 author: 郭小黑
+translate_title: installation-of-noejs-under-windows-and-configuration-of-taobao-mirror
 date: 2019-01-23 19:51:00
 ---
 

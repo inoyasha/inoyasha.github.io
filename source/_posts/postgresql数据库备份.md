@@ -1,8 +1,9 @@
 ---
 title: postgresql数据库备份
-date: 2019-01-23 15:29:26
 tags: postgresql
 categories: 数据库
+translate_title: postgresql-database-backup
+date: 2019-01-23 15:29:26
 ---
 
 **postgresql pg_dump dump数据库表 命令**

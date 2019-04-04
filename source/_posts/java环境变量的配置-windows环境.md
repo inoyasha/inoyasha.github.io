@@ -1,9 +1,11 @@
+---
 title: java环境变量的配置(windows环境)
 author: 郭小黑
 tags:
   - 配置
 categories:
   - java
+translate_title: configuration-of-java-environment-variables-(windows-environment)
 date: 2019-01-25 12:56:00
 ---
 ![](/images/common/program.jpg)

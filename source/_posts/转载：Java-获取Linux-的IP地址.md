@@ -1,9 +1,11 @@
+---
 title: 转载：Java 获取Linux 的IP地址
 copyright: false
 author: 郭小黑
 tags: []
 categories:
   - java web
+translate_title: 'reprint:-java-gets-the-ip-address-of-linux'
 date: 2019-02-03 17:09:00
 ---
 

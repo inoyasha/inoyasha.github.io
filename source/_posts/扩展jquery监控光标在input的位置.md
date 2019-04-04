@@ -1,9 +1,11 @@
+---
 title: 扩展jquery监控光标在input的位置
 tags:
   - jquery
 categories:
   - 前端
 author: 郭小黑
+translate_title: extending-jquery-to-monitor-cursor-position-in-input
 date: 2019-01-23 19:44:00
 ---
 

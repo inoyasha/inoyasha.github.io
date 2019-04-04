@@ -1,3 +1,4 @@
+---
 title: 【转载】Spring Boot中使用Swagger2构建强大的RESTful API文档
 author: 郭小黑
 tags:
@@ -5,6 +6,7 @@ tags:
   - swagger
 categories:
   - java web
+translate_title: '[reprint]-spring-boot-uses-swagger-2-to-build-powerful-restful-api-documents'
 date: 2019-02-02 18:02:00
 ---
 ![](/images/spring.jpg)

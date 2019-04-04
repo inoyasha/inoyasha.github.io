@@ -1,3 +1,4 @@
+---
 title: 卸载ie9~ie11的命令
 tags:
   - windows
@@ -5,6 +6,7 @@ categories:
   - 操作系统
 author: 郭小黑
 copyright: true
+translate_title: uninstall-ie9~ie11-commands
 date: 2019-01-24 16:45:00
 ---
 

@@ -1,9 +1,11 @@
+---
 title: java集成mybatis
 tags:
   - mybatis
 categories:
   - java
 author: 郭小黑
+translate_title: java-integration-mybatis
 date: 2019-01-24 16:55:00
 ---
 

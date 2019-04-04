@@ -1,9 +1,11 @@
+---
 title: 自定义alert弹窗
 tags:
   - javascript
 categories:
   - 前端
 author: 郭小黑
+translate_title: custom-alert-bullet-window
 date: 2019-01-23 19:23:00
 ---
 

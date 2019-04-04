@@ -1,9 +1,11 @@
+---
 title: Hexo博客搭建之在文章中插入图片(转载)
 author: 郭小黑
 tags:
   - hexo
 categories:
   - 静态博客
+translate_title: the-hexo-blog-is-built-to-insert-pictures-in-the-article-(reprint)
 date: 2019-01-25 13:52:00
 ---
 在写文章时，常常有配图说明的需求。Hexo有多种图片插入方式，可以将图片存放在本地引用或者将图片放在CDN上引用。

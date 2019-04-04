@@ -1,9 +1,11 @@
+---
 title: mysql备份与还原
 tags:
   - mysql
 categories:
   - 数据库
 author: 郭小黑
+translate_title: mysql-backup-and-restore
 date: 2019-01-23 15:28:00
 ---
 

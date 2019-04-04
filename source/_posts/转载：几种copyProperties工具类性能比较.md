@@ -1,9 +1,11 @@
+---
 title: 转载：几种copyProperties工具类性能比较
 author: 郭小黑
 tags:
   - 工具类
   - copyProperties
 categories: []
+translate_title: 'reprint:-performance-comparison-of-several-copyproperties-tooling-classes'
 date: 2019-02-02 18:23:00
 ---
 

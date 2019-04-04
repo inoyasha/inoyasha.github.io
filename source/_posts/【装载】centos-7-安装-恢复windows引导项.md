@@ -1,11 +1,12 @@
 ---
 title: 【装载】centos 7 安装 恢复windows引导项
 copyright: false
-date: 2019-02-17 17:50:20
 tags:
   - Linux
 categories:
   - 操作系统
+translate_title: centos-7-installation-restores-windows-boot-item
+date: 2019-02-17 17:50:20
 ---
 
 

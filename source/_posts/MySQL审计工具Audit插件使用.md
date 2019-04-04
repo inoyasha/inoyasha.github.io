@@ -1,9 +1,11 @@
+---
 title: MySQL审计工具Audit插件使用
 tags:
   - mysql
 categories:
   - 数据库
 author: 郭小黑
+translate_title: mysql-audit-plug-in
 date: 2019-01-23 15:27:00
 ---
 

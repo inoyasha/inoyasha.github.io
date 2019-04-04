@@ -1,8 +1,9 @@
 ---
 title: javascript多叉树递归与遍历
-date: 2019-01-23 19:09:48
 tags: javascript
 categories: 前端
+translate_title: recursion-and-traversal-of-javascript-multi-tree
+date: 2019-01-23 19:09:48
 ---
 
 

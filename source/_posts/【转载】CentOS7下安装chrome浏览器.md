@@ -1,6 +1,8 @@
+---
 title: 【转载】CentOS7下安装chrome浏览器
 copyright: false
 author: 郭小黑
+translate_title: install-chrome-browser-under-centos-7
 date: 2019-02-17 20:30:50
 tags:
 categories:

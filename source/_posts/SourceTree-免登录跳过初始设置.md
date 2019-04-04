@@ -1,9 +1,11 @@
+---
 title: SourceTree 免登录跳过初始设置（转载）
 copyright: false
 author: 郭小黑
 tags: []
 categories:
   - git
+translate_title: sourcetree-logon-free-skip-initial-settings-(reprint)
 date: 2019-02-16 08:24:00
 ---
 使用git的时候，有很多的界面管理工具，下面推荐一个比较好用git管理工具——SourceTree.

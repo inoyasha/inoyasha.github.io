@@ -1,3 +1,4 @@
+---
 title: 【转载】CentOS 7 下安装Lantern（VPN）
 copyright: false
 author: 郭小黑
@@ -5,6 +6,7 @@ tags:
   - Centos
 categories:
   - Linux
+translate_title: install-lantern-(vpn)-under-centos-7
 date: 2019-02-17 19:04:00
 ---
 

@@ -1,9 +1,11 @@
+---
 title: 集成阿里巴巴durid
 tags:
   - durid
 categories:
   - java web
 author: 郭小黑
+translate_title: integrating-alibaba-durid
 date: 2019-01-24 16:35:00
 ---
 

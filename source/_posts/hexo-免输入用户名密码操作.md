@@ -1,9 +1,11 @@
+---
 title: hexo 免输入用户名密码操作
 author: 郭小黑
 tags:
   - hexo
 categories:
   - 静态博客
+translate_title: hexo-password-free-operation
 date: 2019-01-29 14:42:00
 ---
 ![](/images/hexo.png)

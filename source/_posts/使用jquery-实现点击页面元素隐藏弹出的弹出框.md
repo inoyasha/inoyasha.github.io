@@ -1,9 +1,11 @@
+---
 title: 使用jquery 实现点击页面元素隐藏弹出的弹出框
 tags:
   - jquery
 categories:
   - 前端
 author: 郭小黑
+translate_title: using-jquery-to-hide-pop-up-boxes-by-clicking-on-page-elements
 date: 2019-01-23 17:41:00
 ---
 

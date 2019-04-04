@@ -1,3 +1,4 @@
+---
 title: 兼容ie8-ie11的阻止表单提交的方法
 tags:
   - javascript
@@ -5,6 +6,7 @@ categories:
   - 前端
 author: 郭小黑
 copyright: true
+translate_title: method-of-preventing-form-submission-compatible-with-ie8-ie11
 date: 2019-01-23 19:31:00
 ---
 

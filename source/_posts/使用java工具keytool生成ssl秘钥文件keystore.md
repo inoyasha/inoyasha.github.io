@@ -1,9 +1,11 @@
+---
 title: 使用java工具keytool生成ssl秘钥文件keystore
 tags:
   - tomcat
 categories:
   - 中间件
 author: 郭小黑
+translate_title: using-java-tool-keytool-to-generate-ssl-key-file-keystore
 date: 2019-01-24 15:54:00
 ---
 

@@ -1,3 +1,4 @@
+---
 title: Centos防火墙iptables的启动与关闭
 author: 郭小黑
 tags:
@@ -5,6 +6,7 @@ tags:
 categories:
   - Linux
 copyright: true
+translate_title: start-and-close-of-iptables-in-centos-firewall
 date: 2019-01-29 17:29:00
 ---
 

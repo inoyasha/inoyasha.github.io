@@ -1,3 +1,4 @@
+---
 title: tomcat环境下服务器文件句柄耗尽（Too Many Open Files）的问题排查
 author: 郭小黑
 tags:
@@ -5,6 +6,7 @@ tags:
 categories:
   - linux
 copyright: true
+translate_title: problem-checking-of-too-many-open-files-in-tomcat-environment
 date: 2019-01-29 18:18:00
 ---
 

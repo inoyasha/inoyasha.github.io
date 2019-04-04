@@ -15,8 +15,9 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://www.guoxiaohei.cn
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year/:month/:day/:translate_title.html
 permalink_defaults:
+   lang: en
 
 # Directory
 source_dir: source
@@ -137,3 +138,12 @@ neat_js:
     - '**/*.min.js'
     - '**/jquery.fancybox.pack.js'
     - '**/index.js'
+#标题翻译 
+#translate_title:
+  #translate_way: baidu_no_appid 
+  #is_need_proxy: false    
+  # proxy_url: http://localhost:50018 # Your proxy_url
+  # youdao_api_key: '' # Your youdao_api_key
+  # youdao_keyfrom: xxxx-blog # Your youdao_keyfrom
+  # baidu_appid: '' # Your baidu_appid
+  # baidu_appkey: '' # Your baidu_appke

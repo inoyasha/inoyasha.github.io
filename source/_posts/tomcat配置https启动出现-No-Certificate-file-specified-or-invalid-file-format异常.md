@@ -1,9 +1,12 @@
+---
 title: tomcat配置https启动出现 No Certificate file specified or invalid file format异常
 tags:
   - tomcat
 categories:
   - 中间件
 author: 郭小黑
+translate_title: >-
+  no-certificate-file-specifier-or-invalid-file-format-exception-occurred-in-tomcat-configuration-https-startup
 date: 2019-01-24 16:03:00
 ---
 

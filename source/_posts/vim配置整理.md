@@ -1,9 +1,11 @@
+---
 title: vim配置整理
 tags:
   - vim
 categories:
   - 编辑器
 author: 郭小黑
+translate_title: vim-configuration-arrangement
 date: 2019-01-24 09:41:00
 ---
 

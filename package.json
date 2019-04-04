@@ -25,6 +25,7 @@
     "hexo-renderer-marked": "^0.3.2",
     "hexo-renderer-stylus": "^0.3.3",
     "hexo-server": "^0.3.3",
+    "hexo-translate-title": "^1.0.11",
     "hexo-wordcount": "^6.0.1"
   }
 }

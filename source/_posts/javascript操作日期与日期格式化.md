@@ -1,9 +1,11 @@
+---
 title: javascript操作日期与日期格式化
 tags:
   - javascript
 categories:
   - 前端
 author: 郭小黑
+translate_title: javascript-operation-date-and-date-formatting
 date: 2019-01-23 20:07:00
 ---
 

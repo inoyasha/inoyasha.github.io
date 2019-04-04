@@ -1,8 +1,10 @@
+---
 title: Centos下jdk bin格式安装
 author: 郭小黑
 tags:
   - jdk
 categories: []
+translate_title: installation-of-jdk-bin-format-under-centos
 date: 2019-01-29 19:04:00
 ---
 ![](/images/java.jpg)

@@ -1,9 +1,11 @@
+---
 title: jQuery.ajax向后台传递数组问题
 tags:
   - ajax
 categories:
   - 前端
 author: 郭小黑
+translate_title: jquery.ajax-background-transfer-array-problem
 date: 2019-01-23 18:16:00
 ---
 
