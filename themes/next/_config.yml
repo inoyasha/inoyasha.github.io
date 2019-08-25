@@ -100,6 +100,7 @@ menu:
   tags: /tags/ || tags
   about: /about/ || user
   book: /categories/books || book
+  sorting: /categories/sorting || calendar
   #schedule: /schedule/ || calendar
   sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
